@@ -1,0 +1,11 @@
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-learn
+Pillow
+imageio
+jupyterlab>3.0
